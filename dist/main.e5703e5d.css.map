@@ -1,0 +1,1 @@
+{"version":3,"sources":["..\\scss\\main.scss"],"names":[],"mappings":"AAEA;EAEA","file":"main.e5703e5d.css","sourceRoot":"..\\src\\pages","sourcesContent":["$black: black;\r\n\r\nbody {\r\n\r\nbackground: black;\r\n}"]}
